@@ -1,0 +1,4 @@
+.env
+state.json
+board.json
+__pycache__/
